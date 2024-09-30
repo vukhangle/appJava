@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/controllers/hoaDonController.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/nhapExcelFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/models/Sach.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/data/ConnectDB.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/controllers/sachController.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/models/DanhMuc.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/loginFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/homeFame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/themFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/hoaDonFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/signUpFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/controllers/nxbController.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/settingFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/controllers/danhMucController.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/DShoaDonFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/controllers/nguoiDungController.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/data/excelFile.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/views/chiTietFrame.java</file>
+            <file>file:/C:/xampp/htdocs/QuanLyHieuSach/src/quanlyhieusach/QuanLyHieuSach.java</file>
+        </group>
+    </open-files>
+</project-private>
